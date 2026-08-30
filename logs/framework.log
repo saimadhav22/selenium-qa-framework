@@ -1,0 +1,90 @@
+2026-08-30 11:18:05.878 [main] INFO  com.qa.framework.config.ConfigManager - Configuration loaded successfully from config.properties
+2026-08-30 11:18:10.941 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 11:18:11.484 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 11:18:13.067 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 11:18:17.146 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 11:18:18.276 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 11:18:32.175 [main] INFO  com.qa.framework.tests.SelfHealingTest - Test completed successfully; primary locator was broken but self-healing recovered the target element without failing the run.
+2026-08-30 11:19:15.121 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 11:28:21.503 [main] INFO  com.qa.framework.config.ConfigManager - Configuration loaded successfully from config.properties
+2026-08-30 11:28:25.408 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 11:28:39.562 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 11:28:40.691 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 11:28:44.300 [main] INFO  com.qa.framework.util.JsonTableExtractor - Single executeScript table extraction completed in 31 ms
+2026-08-30 11:28:45.855 [main] WARN  com.qa.framework.tests.DataIntegrityTest - Reference API unreachable (Connection refused: connect). Using synthesized reference snapshot instead.
+2026-08-30 11:28:45.874 [main] INFO  com.qa.framework.tests.DataIntegrityTest - Data integrity check PASSED: all 2500 cells matched between API and UI.
+2026-08-30 11:28:46.081 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 11:28:47.193 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 11:29:01.040 [main] INFO  com.qa.framework.tests.SelfHealingTest - Test completed successfully; primary locator was broken but self-healing recovered the target element without failing the run.
+2026-08-30 11:29:38.721 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:15:46.544 [main] INFO  com.qa.framework.config.ConfigManager - Configuration loaded successfully from config.properties
+2026-08-30 15:15:51.832 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:16:10.754 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:16:13.231 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:16:16.980 [main] INFO  com.qa.framework.util.JsonTableExtractor - Single executeScript table extraction completed in 32 ms
+2026-08-30 15:16:19.341 [main] WARN  com.qa.framework.tests.DataIntegrityTest - Reference API unreachable (Connection refused: connect). Using synthesized reference snapshot instead.
+2026-08-30 15:16:19.373 [main] INFO  com.qa.framework.tests.DataIntegrityTest - Data integrity check PASSED: all 2500 cells matched between API and UI.
+2026-08-30 15:16:19.721 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:16:21.051 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:16:35.007 [main] INFO  com.qa.framework.tests.SelfHealingTest - Test completed successfully; primary locator was broken but self-healing recovered the target element without failing the run.
+2026-08-30 15:16:55.970 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:19:30.635 [main] INFO  com.qa.framework.config.ConfigManager - Configuration loaded successfully from config.properties
+2026-08-30 15:19:34.686 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:19:58.620 [main] INFO  com.qa.framework.tests.LocatorBenchmarkTest - 
+=================== LOCATOR STRATEGY BENCHMARK REPORT ===================
+| Strategy             |  Samples |   Mean(ms) | Median(ms) | StdDev(ms) |    Min(ms) |    Max(ms) |
+----------------------------------------------------------------------------------------------------
+| Brittle XPath        |       50 |     21.166 |     20.221 |      3.808 |     17.032 |     41.548 |
+| Relative Locator     |       50 |    374.227 |    364.305 |     31.942 |    338.172 |    516.084 |
+===========================================================================
+
+2026-08-30 15:19:59.028 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:20:00.723 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:20:04.833 [main] INFO  com.qa.framework.util.JsonTableExtractor - Single executeScript table extraction completed in 49 ms
+2026-08-30 15:20:06.785 [main] WARN  com.qa.framework.tests.DataIntegrityTest - Reference API unreachable (Connection refused: connect). Using synthesized reference snapshot instead.
+2026-08-30 15:20:06.829 [main] INFO  com.qa.framework.tests.DataIntegrityTest - Data integrity check PASSED: all 2500 cells matched between API and UI.
+2026-08-30 15:20:07.152 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:20:08.524 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:20:22.284 [main] INFO  com.qa.framework.tests.SelfHealingTest - Test completed successfully; primary locator was broken but self-healing recovered the target element without failing the run.
+2026-08-30 15:20:43.109 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:56:58.219 [main] INFO  com.qa.framework.config.ConfigManager - Configuration loaded successfully from config.properties
+2026-08-30 15:57:02.581 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:57:48.991 [main] INFO  com.qa.framework.tests.LocatorBenchmarkTest - 
+=================== LOCATOR STRATEGY BENCHMARK REPORT ===================
+| Strategy             |  Samples |   Mean(ms) | Median(ms) | StdDev(ms) |    Min(ms) |    Max(ms) |
+----------------------------------------------------------------------------------------------------
+| Brittle XPath        |       50 |     20.077 |     18.642 |      4.047 |     16.217 |     38.243 |
+| Relative Locator     |       50 |    346.301 |    334.052 |     61.909 |    313.694 |    737.671 |
+===========================================================================
+
+2026-08-30 15:57:49.349 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:57:50.771 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:57:57.410 [main] INFO  com.qa.framework.util.JsonTableExtractor - Single executeScript table extraction completed in 26 ms
+2026-08-30 15:57:58.919 [main] WARN  com.qa.framework.tests.DataIntegrityTest - Reference API unreachable (Connection refused: connect). Using synthesized reference snapshot instead.
+2026-08-30 15:57:58.972 [main] INFO  com.qa.framework.tests.DataIntegrityTest - Data integrity check PASSED: all 2500 cells matched between API and UI.
+2026-08-30 15:57:59.142 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 15:58:00.120 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 15:58:22.199 [main] INFO  com.qa.framework.tests.SelfHealingTest - Test completed successfully; primary locator was broken but self-healing recovered the target element without failing the run.
+2026-08-30 15:58:42.879 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 16:13:02.271 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\IdeaProjects\selenium-qa-framework\testng.xml
+
+2026-08-30 16:13:02.321 [main] INFO  com.qa.framework.config.ConfigManager - Configuration loaded successfully from config.properties
+2026-08-30 16:13:04.954 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 16:13:33.414 [main] INFO  com.qa.framework.tests.LocatorBenchmarkTest - 
+=================== LOCATOR STRATEGY BENCHMARK REPORT ===================
+| Strategy             |  Samples |   Mean(ms) | Median(ms) | StdDev(ms) |    Min(ms) |    Max(ms) |
+----------------------------------------------------------------------------------------------------
+| Brittle XPath        |       50 |     20.015 |     19.241 |      4.425 |     16.252 |     46.218 |
+| Relative Locator     |       50 |    331.082 |    328.384 |     22.689 |    307.390 |    461.193 |
+===========================================================================
+
+2026-08-30 16:13:33.674 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 16:13:34.664 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 16:13:42.412 [main] INFO  com.qa.framework.util.JsonTableExtractor - Single executeScript table extraction completed in 27 ms
+2026-08-30 16:13:43.977 [main] WARN  com.qa.framework.tests.DataIntegrityTest - Reference API unreachable (Connection refused: connect). Using synthesized reference snapshot instead.
+2026-08-30 16:13:43.998 [main] INFO  com.qa.framework.tests.DataIntegrityTest - Data integrity check PASSED: all 2500 cells matched between API and UI.
+2026-08-30 16:13:44.188 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.
+2026-08-30 16:13:45.131 [main] INFO  com.qa.framework.config.DriverFactory - Initialized chrome WebDriver instance (headless=true)
+2026-08-30 16:14:06.933 [main] INFO  com.qa.framework.tests.SelfHealingTest - Test completed successfully; primary locator was broken but self-healing recovered the target element without failing the run.
+2026-08-30 16:14:28.082 [main] INFO  com.qa.framework.config.DriverFactory - WebDriver session terminated cleanly.

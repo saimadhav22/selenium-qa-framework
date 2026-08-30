@@ -1,0 +1,16 @@
+com\qa\framework\util\JsonTableExtractor.class
+com\qa\framework\healing\SelfHealingElementLocator$HealAttempt.class
+com\qa\framework\model\ElementProfile.class
+com\qa\framework\pages\DynamicLargeDomPage.class
+com\qa\framework\pages\BrittleLargeDomPage.class
+com\qa\framework\healing\SmartDriver.class
+com\qa\framework\model\TableCell.class
+com\qa\framework\config\DriverFactory.class
+com\qa\framework\model\CellMismatch$MismatchType.class
+com\qa\framework\model\TableSnapshot.class
+com\qa\framework\healing\SelfHealingElementLocator.class
+com\qa\framework\api\TableApiClient.class
+com\qa\framework\model\CellMismatch.class
+com\qa\framework\config\ConfigManager.class
+com\qa\framework\util\BenchmarkStats.class
+com\qa\framework\util\TableDiffEngine.class

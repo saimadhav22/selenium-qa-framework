@@ -1,0 +1,14 @@
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\api\TableApiClient.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\config\ConfigManager.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\config\DriverFactory.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\healing\SelfHealingElementLocator.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\healing\SmartDriver.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\model\CellMismatch.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\model\ElementProfile.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\model\TableCell.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\model\TableSnapshot.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\pages\BrittleLargeDomPage.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\pages\DynamicLargeDomPage.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\util\BenchmarkStats.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\util\JsonTableExtractor.java
+C:\Users\User\IdeaProjects\selenium-qa-framework\src\main\java\com\qa\framework\util\TableDiffEngine.java

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumQAFrameworkSuite" parallel="none" verbose="1">
+    <test name="LocatorBenchmarkSuite">
+        <classes>
+            <class name="com.qa.framework.tests.LocatorBenchmarkTest"/>
+        </classes>
+    </test>
+
+    <test name="DataIntegritySuite">
+        <classes>
+            <class name="com.qa.framework.tests.DataIntegrityTest"/>
+        </classes>
+    </test>
+
+    <test name="SelfHealingSuite">
+        <classes>
+            <class name="com.qa.framework.tests.SelfHealingTest"/>
+        </classes>
+    </test>
+</suite>
