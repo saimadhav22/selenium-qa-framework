@@ -1,6 +1,8 @@
 # Selenium QA Automation Framework
 
-**Author:** Lakshmi Ketha
+**Author:** Saimadhav Thottala
+**LinkedIn:** [linkedin.com/in/saimadhav-thottala](https://www.linkedin.com/in/saimadhav-thottala)
+**GitHub:** [github.com/saimadhav22](https://github.com/saimadhav22)
 
 A production-grade Selenium 4 test automation framework built in Java 25, demonstrating three core QA engineering capabilities against a real deep-DOM stress-test page (`the-internet.herokuapp.com/large`):
 
